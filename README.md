@@ -8,6 +8,7 @@
 ### Frontend Setup
 - To run locally
 - Get into frontend directory
+- Open terminal
 - Run command
 `$ npm start`
 ## Technologies 
