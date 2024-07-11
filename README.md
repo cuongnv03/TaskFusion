@@ -22,3 +22,4 @@
 - Manage projects: Create, Read, Update and Delete projects
 - Manage project tasks and backlogs: Create, Read, Update and Delete project tasks
 - View project dashboard and task priority, status
+## More details in [Report](https://github.com/cuongnv03/TaskFusion/blob/master/Report.pdf)
